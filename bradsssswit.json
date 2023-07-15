@@ -129,25 +129,22 @@
         "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "IN"
+            "HK",
+            "CN"
         ],
         "adjustParams":[
             
             {
-                "name":"firstrecharge",
-                "value":"euoerm"
+                "name":"purchase",
+                "value":"xe59qt"
             },
             {
                 "name":"recharge",
-                "value":"jk7lw8"
-            },
-            {
-                "name":"register",
-                "value":"ycnto0"
+                "value":"oh3qoe"
             }
         ],
-        "afFbId":"269052905678234",
-        "afFbToken":"1f9423add3abf74c1c3def8768fa0a68"
+        "afFbId":"",
+        "afFbToken":""
     },
     "kbmxhgop":{
         "aUrl":"https://jebet.vip/?id=23588458",
