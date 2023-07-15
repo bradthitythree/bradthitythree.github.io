@@ -54,7 +54,8 @@
         "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "IN"
+            "IN",
+            "HK"
         ],
         "adjustParams":[
             
