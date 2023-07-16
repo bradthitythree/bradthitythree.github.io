@@ -2,10 +2,10 @@
 { 
     "xhahgg":{
         "aUrl":"https://jebet.vip/?id=23588458",
-        "isToAGame":false,
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "IN"
+            "HK"
         ],
         "adjustParams":[
             
@@ -27,10 +27,10 @@
     },
     "unigque":{
         "aUrl":"https://jebet.vip/?id=23588458",
-        "isToAGame":false,
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "IN"
+            "HK"
         ],
         "adjustParams":[
             {
